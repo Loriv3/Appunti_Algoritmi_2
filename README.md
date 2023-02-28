@@ -1,4 +1,4 @@
-# Codici_Algoritmi_2
+# Appunti di Progettazione di Algoritmi
 
 Questa repo contiene i vari codici visti a lezione e nelle esercitazioni del corso di Progettazione di Algoritmi dell'Università "La Sapienza" di Roma(Canale M-Z).
 I codici più imporanti sono salvati con un nome loro ed esplicativo, i vari esercizi sono numerati in ordine cronologico delle slide. Gli esercizi sono nominati con la seguente modalità:
